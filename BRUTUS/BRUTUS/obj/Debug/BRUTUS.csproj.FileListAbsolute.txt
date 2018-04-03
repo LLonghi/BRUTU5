@@ -1,0 +1,10 @@
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\bin\Debug\BRUTUS.exe.config
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\bin\Debug\BRUTUS.exe
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\bin\Debug\BRUTUS.pdb
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\obj\Debug\BRUTUS.csprojResolveAssemblyReference.cache
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\obj\Debug\BRUTUS.Form1.resources
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\obj\Debug\BRUTUS.Properties.Resources.resources
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\obj\Debug\BRUTUS.csproj.GenerateResource.Cache
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\obj\Debug\BRUTUS.exe
+c:\users\leonardo\documents\visual studio 2015\Projects\BRUTUS\BRUTUS\obj\Debug\BRUTUS.pdb
+C:\Users\Leonardo\Documents\Visual Studio 2015\Projects\BRUTUS\BRUTUS\obj\Debug\BRUTUS.csproj.CoreCompileInputs.cache
